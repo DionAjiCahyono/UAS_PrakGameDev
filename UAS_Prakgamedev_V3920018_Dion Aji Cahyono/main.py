@@ -4,7 +4,7 @@ from direct.gui.DirectGui import *
 from direct.task import Task
 import random
 from past.builtins import xrange
-loadPrcFileData('', 'window-title Conway\'s Game of Life')
+loadPrcFileData('', 'window-title Grid\'Game')
 
 base = ShowBase()
 
